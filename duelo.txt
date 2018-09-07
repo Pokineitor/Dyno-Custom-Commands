@@ -1,0 +1,1 @@
+{user} {user.avatar} ha retado a un duelo a {@user} {@user.avatar}
